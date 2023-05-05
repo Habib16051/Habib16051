@@ -120,8 +120,8 @@
   <a href="https://github.com/Habib16051/django-ecommerce-project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=django-ecommerce-project&hide_border=true&theme=radical" />
   </a>
-  <a href="https://github.com/MahmudJewel/Django-Blog--techvillain-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-Blog--techvillain-&hide_border=true&theme=radical" />
+  <a href="https://github.com/Habib16051/Portfolio-Website-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=Portfolio-Website-Project&hide_border=true&theme=radical" />
   </a>
   <a href="https://github.com/MahmudJewel/Django-URL_shortener">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-URL_shortener&hide_border=true&theme=radical" />
