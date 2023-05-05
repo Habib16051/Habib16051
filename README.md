@@ -117,8 +117,8 @@
 <!-- ======================================= Pinned Repo ======================================= -->
 <h3 align="center"> 📕 Pinned Repositories</h3>
 <p align="center">
-  <a href="https://github.com/MahmudJewel/Django-E_commerce">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-E_commerce&hide_border=true&theme=radical" />
+  <a href="https://github.com/Habib16051/django-ecommerce-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=django-ecommerce-project&hide_border=true&theme=radical" />
   </a>
   <a href="https://github.com/MahmudJewel/Django-Blog--techvillain-">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-Blog--techvillain-&hide_border=true&theme=radical" />
@@ -171,5 +171,5 @@
 
 <!-- =======================================  snake ======================================= -->
 <p align="center">
-   <img src="https://github.com/MahmudJewel/MahmudJewel/blob/main/static/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/Habib16051/Habib16051/blob/main/static/github-contribution-grid-snake.svg" alt="snake">
 </p>
