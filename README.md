@@ -46,17 +46,17 @@
 </p>
 
 <h3> 🧑🏻‍💻 Front-end Frameworks</h3>
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/Nxt-Next.js-47e"/>
   <img src="https://img.shields.io/badge/React-React.js-informational"/>
   <img src="https://img.shields.io/badge/B-BootStrap-critical"/>
   <img src="https://img.shields.io/badge/tcss-Tailwind%20CSS-blue"/>
-</p>
+</p> -->
 
 <h3> ✍🏻 Languages</h3> 
 <p>
   <img src="https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=000"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -73,7 +73,7 @@
 
 <h3> 🔝 API Framework</h3>
 <p>
-  <img src="https://img.shields.io/badge/GqL-GraphQL-ff69b4"/>
+  <!-- <img src="https://img.shields.io/badge/GqL-GraphQL-ff69b4"/> -->
   <img src="https://img.shields.io/badge/api-Rest API-blueviolet"/>
 </p>
 
@@ -89,7 +89,7 @@
 <h3> 🧑🏻‍💻 Workspace</h3> 
 <p>
   <img src="https://img.shields.io/badge/Linux-Linux-green"/>
-  <img src="https://img.shields.io/badge/arch-Manjaro-brightgreen"/>
+  <!-- <img src="https://img.shields.io/badge/arch-Manjaro-brightgreen"/> -->
   <img src="https://img.shields.io/badge/deb-Ubuntu-informational"/>
   <img src="https://img.shields.io/badge/deb-Kali-critical"/>
   <img src="https://img.shields.io/badge/win-Windows-lightgrey"/>
@@ -99,18 +99,18 @@
 <!-- ======================================= Statistics ======================================= -->
 <h3 align="center"> 📈 Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudjewel&show_icons=true&locale=en&layout=demo" alt="mahmudjewel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habib16051&show_icons=true&locale=en&layout=demo" alt="habib16051" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudjewel&show_icons=true&locale=en" alt="mahmudjewel" /> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudjewel&" alt="mahmudjewel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Habib16051&show_icons=true&locale=en" alt="Habib16051" /> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib16051&" alt="Habib16051" />
 </p>
 <br/>
 
 <!-- =======================================  trophy ======================================= -->
 <h3 align="center"> 🚀 Profile-Trophy</h3>
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mahmudjewel" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Habib16051" />
 </p>
 <br/>
 
