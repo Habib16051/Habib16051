@@ -28,8 +28,12 @@
 <h3 align="center"> <img src="/static/wave.gif" width="20px" height="20px"> Connect with me</h3>   
 <p align="center">
   <a href= "https://www.linkedin.com/in/md-habibur-rahman71/"><img src="https://img.icons8.com/doodle/48/null/linkedin-circled.png"/></a>
-  <a href= "https://www.hackerrank.com/DJ_cse"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
-  <a href= "https://www.youtube.com/channel/UCJCdq7lWqB7M5b16UatoTEw"><img src="https://img.icons8.com/doodle/48/000000/youtube-play--v1.png"/></a>
+  <a href= "https://www.hackerearth.com/@habibmhr143"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
+
+  <a href= "https://leetcode.com/Habib16051/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+
+
+  <a href= "https://www.youtube.com/channel/UCmwBAWWUqT6Uiv-ssmLrAtg"><img src="https://img.icons8.com/doodle/48/000000/youtube-play--v1.png"/></a>
   <a href= "https://www.facebook.com/Bullet007.0"><img src="https://img.icons8.com/doodle/48/null/facebook-new.png"/></a>
   <a href= "https://www.instagram.com/ek_villain.007"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/></a>
 </p>
