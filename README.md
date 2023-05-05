@@ -45,6 +45,16 @@
   <img src="https://img.shields.io/badge/api-Rest%20API-yellowgreen"/>
 </p>
 
+<h3> 🧩 Analytical Capabilities</h3>
+<p>
+  <img src="https://img.icons8.com/color/48/null/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/null/pandas.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/jupyter.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/artificial-intelligence.png"/>
+</p>
+
+
+
 <!-- <h3> 🧑🏻‍💻 Front-end Frameworks</h3> -->
 <!-- <p>
   <img src="https://img.shields.io/badge/Nxt-Next.js-47e"/>
