@@ -41,7 +41,7 @@
 <p>
   <img src="https://img.shields.io/badge/dj-Django-blue"/>
   <img src="https://img.shields.io/badge/api-Django%20Rest%20Framework-blueviolet"/>
-  <img src="https://img.shields.io/badge/Gql-GraphQL-ff69b4"/>
+  <img src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
   <img src="https://img.shields.io/badge/api-Rest%20API-yellowgreen"/>
 </p>
 
