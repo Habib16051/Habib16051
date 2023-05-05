@@ -12,27 +12,9 @@
   <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
     <img src="https://img.icons8.com/color/65/null/django.png"/>
   </a>
-  <!-- <a href= "https://nextjs.org" target="_blank">
-    <img src="https://img.icons8.com/color/50/null/nextjs.png"/>
-  </a> -->
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png" alt="nextjs" width="50" height="50"/> 
-  </a>
-  <!-- <a href= "https://reactjs.org" target="_blank">
-    <img src="https://img.icons8.com/officel/50/null/react.png"/>
-  </a> -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
-  </a>
-  <a href= "https://graphql.org" target="_blank">
-    <img src="https://img.icons8.com/color/50/null/graphql.png"/>
-  </a>
   <a href= "https://restfulapi.net" target="_blank">
     <img src="https://img.icons8.com/nolan/50/api-settings.png"/>
   </a>
-  <!-- <a href= "https://www.postgresql.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/null/postgreesql.png"/>
-  </a> -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
 </a>
