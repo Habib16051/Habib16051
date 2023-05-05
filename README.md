@@ -123,20 +123,20 @@
   <a href="https://github.com/Habib16051/Portfolio-Website-Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=Portfolio-Website-Project&hide_border=true&theme=radical" />
   </a>
-  <a href="https://github.com/MahmudJewel/Django-URL_shortener">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-URL_shortener&hide_border=true&theme=radical" />
+  <a href="https://github.com/Habib16051/Car-Price-Prediction">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=Car-Price-Prediction&hide_border=true&theme=radical" />
   </a>
 
-  <a href="https://github.com/MahmudJewel/DRF-Product-Recommendation-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=DRF-Product-Recommendation-System&hide_border=true&theme=radical" />
+  <a href="https://github.com/Habib16051/My-Blog-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=My-Blog-Project&hide_border=true&theme=radical" />
   </a>
-  <a href="https://github.com/MahmudJewel/API-ecommerce_for_mktech">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=API-ecommerce_for_mktech&hide_border=true&theme=radical" />
+  <a href="https://github.com/Habib16051/Social-Media-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=Social-Media-Project&hide_border=true&theme=radical" />
   </a>
-  <a href="https://github.com/MahmudJewel/full-stack-Auction-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=full-stack-Auction-app&hide_border=true&theme=radical" />
+  <a href="https://github.com/Habib16051/Flight_price_prediction">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=Flight_price_prediction&hide_border=true&theme=radical" />
   </a>
-  <a href="https://github.com/MahmudJewel/BlogWithLikeComment-DRF_Reactjs">
+  <!-- <a href="https://github.com/MahmudJewel/BlogWithLikeComment-DRF_Reactjs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=BlogWithLikeComment-DRF_Reactjs&hide_border=true&theme=radical" />
   </a>
   <a href="https://github.com/MahmudJewel/React-Movies_Portal">
@@ -149,7 +149,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django_portfolio&hide_border=true&theme=radical" />
   </a>
 
-  <a href="https://github.com/MahmudJewel/Django-Elastic_Search-2">
+  <!-- <a href="https://github.com/MahmudJewel/Django-Elastic_Search-2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=Django-Elastic_Search-2&hide_border=true&theme=radical" />
   </a>
   <a href="https://github.com/MahmudJewel/Django-Payments_for_SSLCommerz">
@@ -163,7 +163,7 @@
   </a>
   <a href="https://github.com/MahmudJewel/File-transferring-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=File-transferring-app&hide_border=true&theme=radical" />
-  </a>
+  </a> -->
 </p>
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudjewel&layout=demo -->
 
