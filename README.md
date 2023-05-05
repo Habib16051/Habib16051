@@ -1,13 +1,12 @@
 <!-- ======================================= Profile views ======================================= -->
 <!-- <p> -->
 <p align="right"> 
-  <!-- <img src="https://komarev.com/ghpvc/?username=mahmudjewel&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudjewel" /> -->
-  <img src="https://views.whatilearened.today/views/github/mahmudjewel/views.svg" alt="mahmudjewel" />
-  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-cc66ff"/></a>
+  <img src="https://views.whatilearened.today/views/github/Habib16051/views.svg" alt="mahmudjewel" />
+  <!-- <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-cc66ff"/></a> -->
 </p>
 
 <!-- ======================================= Title ======================================= -->
-<h3 align="center"> <img src="/static/python.gif" width="20px" height="20px"> Full-Stack Python Developer</h3>
+<h3 align="center"> <img src="/static/python.gif" width="20px" height="20px">Python Developer</h3>
 <!-- ======================================= summary stacks  ======================================= -->
 <p align="center">
   <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
