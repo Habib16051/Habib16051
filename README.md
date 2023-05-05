@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/api-Rest%20API-yellowgreen"/>
 </p>
 
-<h3> 🧑🏻‍💻 Front-end Frameworks</h3>
+<!-- <h3> 🧑🏻‍💻 Front-end Frameworks</h3> -->
 <!-- <p>
   <img src="https://img.shields.io/badge/Nxt-Next.js-47e"/>
   <img src="https://img.shields.io/badge/React-React.js-informational"/>
