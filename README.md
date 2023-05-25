@@ -128,6 +128,11 @@
 <!-- ======================================= Pinned Repo ======================================= -->
 <h3 align="center"> 📕 Pinned Repositories</h3>
 <p align="center">
+  
+   <a href="https://github.com/Habib16051/Student-Study-Portal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=Flight_price_prediction&hide_border=true&theme=radical" />
+  </a>
+  
   <a href="https://github.com/Habib16051/django-ecommerce-project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=django-ecommerce-project&hide_border=true&theme=radical" />
   </a>
@@ -147,6 +152,9 @@
   <a href="https://github.com/Habib16051/Flight_price_prediction">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=Flight_price_prediction&hide_border=true&theme=radical" />
   </a>
+  
+
+  
   <!-- <a href="https://github.com/MahmudJewel/BlogWithLikeComment-DRF_Reactjs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudjewel&repo=BlogWithLikeComment-DRF_Reactjs&hide_border=true&theme=radical" />
   </a>
