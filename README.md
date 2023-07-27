@@ -130,6 +130,10 @@
 <p align="center">
   
    <a href="https://github.com/Habib16051/Student-Study-Portal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=ABCademy&hide_border=true&theme=radical" />
+  </a>
+
+  <a href="https://github.com/Habib16051/Student-Study-Portal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=Student-Study-Portal&hide_border=true&theme=radical" />
   </a>
   
