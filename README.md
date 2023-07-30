@@ -6,7 +6,7 @@
 </p>
 
 <!-- ======================================= Title ======================================= -->
-<h3 align="center"> <img src="/static/python.gif" width="20px" height="20px">Python Developer</h3>
+<h3 align="center"> <img src="/static/python.gif" width="20px" height="20px">Full Stack Python Developer</h3>
 <!-- ======================================= summary stacks  ======================================= -->
 <p align="center">
   <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
