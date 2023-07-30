@@ -2,7 +2,7 @@
 <!-- <p> -->
 <p align="right"> 
   <img src="https://views.whatilearened.today/views/github/Habib16051/views.svg" alt="Habib" />
-  <!-- <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-cc66ff"/></a> -->
+  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-cc66ff"/></a>
 </p>
 
 <!-- ======================================= Title ======================================= -->
@@ -41,7 +41,7 @@
 <p>
   <img src="https://img.shields.io/badge/dj-Django-blue"/>
   <img src="https://img.shields.io/badge/api-Django%20Rest%20Framework-blueviolet"/>
-  <img src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
+  <img src="https://img.shields.io/badge/psql-PostgreSQL-blue"/>
   <img src="https://img.shields.io/badge/api-Rest%20API-yellowgreen"/>
 </p>
 
