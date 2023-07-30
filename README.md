@@ -1,7 +1,7 @@
 <!-- ======================================= Profile views ======================================= -->
 <!-- <p> -->
 <p align="right"> 
-  <img src="https://views.whatilearened.today/views/github/Habib16051/views.svg" alt="mahmudjewel" />
+  <img src="https://views.whatilearened.today/views/github/Habib16051/views.svg" alt="Habib" />
   <!-- <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-cc66ff"/></a> -->
 </p>
 
@@ -55,18 +55,18 @@
 
 
 
-<!-- <h3> 🧑🏻‍💻 Front-end Frameworks</h3> -->
-<!-- <p>
-  <img src="https://img.shields.io/badge/Nxt-Next.js-47e"/>
-  <img src="https://img.shields.io/badge/React-React.js-informational"/>
-  <img src="https://img.shields.io/badge/B-BootStrap-critical"/>
-  <img src="https://img.shields.io/badge/tcss-Tailwind%20CSS-blue"/>
-</p> -->
+<h3> 🧑🏻‍💻 Front-end Frameworks</h3>
+  <p>
+<!--     <img src="https://img.shields.io/badge/Nxt-Next.js-47e"/>
+    <img src="https://img.shields.io/badge/React-React.js-informational"/> -->
+    <img src="https://img.shields.io/badge/B-BootStrap-critical"/>
+    <img src="https://img.shields.io/badge/tcss-Tailwind%20CSS-blue"/>
+  </p>
 
 <h3> ✍🏻 Languages</h3> 
 <p>
   <img src="https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=000"/>
-  <!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
