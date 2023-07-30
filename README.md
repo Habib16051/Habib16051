@@ -2,7 +2,7 @@
 <!-- <p> -->
 <p align="right"> 
   <img src="https://views.whatilearened.today/views/github/Habib16051/views.svg" alt="Habib" />
-  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-lightgreen"/></a>
+  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Os-Linux-darkgreen"/></a>
 </p>
 
 <!-- ======================================= Title ======================================= -->
