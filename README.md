@@ -25,7 +25,6 @@
   </a>
 </p>
 <br/>
-
 <!-- ======================================= social link ======================================= -->
 <h3 align="center"> <img src="/static/wave.gif" width="20px" height="20px"> Connect with me</h3>   
 <p align="center">
