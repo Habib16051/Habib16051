@@ -134,8 +134,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=HuoAgroFarm&hide_border=true&theme=radical" />
   </a>
 
-  <a href="https://github.com/Habib16051/ABCademy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=ABCademy&hide_border=true&theme=radical" />
+  <a href="https://github.com/Habib16051/potato-disease-detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=potato-disease-detection&hide_border=true&theme=radical" />
+  </a>
+
+  <a href="https://github.com/Habib16051/HuoAcademy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=HuoAcademy&hide_border=true&theme=radical" />
   </a>
 
   <a href="https://github.com/Habib16051/Student-Study-Portal">
