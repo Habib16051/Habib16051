@@ -131,7 +131,7 @@
 <p align="center">
   
    <a href="https://github.com/Habib16051/HuoAgroFarm">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=ABCademy&hide_border=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=HuoAgroFarm&hide_border=true&theme=radical" />
   </a>
 
   <a href="https://github.com/Habib16051/ABCademy">
