@@ -130,7 +130,11 @@
 <h3 align="center"> 📕 Pinned Repositories</h3>
 <p align="center">
   
-   <a href="https://github.com/Habib16051/ABCademy">
+   <a href="https://github.com/Habib16051/HuoAgroFarm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=ABCademy&hide_border=true&theme=radical" />
+  </a>
+
+  <a href="https://github.com/Habib16051/ABCademy">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=ABCademy&hide_border=true&theme=radical" />
   </a>
 
