@@ -110,12 +110,11 @@
 <!-- ======================================= Statistics ======================================= -->
 <h3 align="center"> 📈 Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habib16051&show_icons=true&locale=en&layout=demo" alt="habib16051" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habib16051&show_icons=true&locale=en&layout=compact" alt="habib" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habib16051&show_icons=true&locale=en" alt="Habib16051" /> &nbsp;
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib16051&" alt="Habib16051" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Habib16051&show_icons=true&locale=en" alt="habib" /> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib16051&" alt="habib" />
 </p>
 <br/>
 
