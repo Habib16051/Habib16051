@@ -107,6 +107,25 @@
 </p>
 <br/>
 
+
+<!-- work experience section starts here  -->
+
+### 💼 &nbsp; Employment History
+
+| Position            | Institute                                   | Duration            | Location           |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Helsinki, Finland  |
+| Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Tampere, Finland   |
+| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
+| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
+| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
+| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
+| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
+| Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
+
+<br />
+<!-- work experience section ends here  -->
+
 <!-- ======================================= Statistics ======================================= -->
 <h3 align="center"> 📈 Statistics</h3>
 <p align="center">
