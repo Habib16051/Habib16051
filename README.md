@@ -133,6 +133,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Habib16051&show_icons=true&locale=en" alt="habib" /> &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib16051&" alt="habib" />
 </p>
+<br />
+<br />
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib16051&" alt="habib" />
+</p>
 <br/>
 
 <!-- Top Priorities section starts here  -->
