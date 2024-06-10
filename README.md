@@ -146,11 +146,11 @@
 #### Top Repositories
 
 
-<a gap="5px" href="https://github.com/Habib16051/Student-Study-Portal">
+<a href="https://github.com/Habib16051/Student-Study-Portal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=Student-Study-Portal&theme=buefy" />
 </a>
 <a href="https://github.com/Habib16051/HuoAgroFarm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=HuoAgroFarm&theme=buefy" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=HuoAgroFarm&theme=buefy" />
 </a>
 
 <br />
