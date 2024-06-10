@@ -122,6 +122,7 @@
 | Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
 | Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
 | Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
+| Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
 
 <br />
 <!-- work experience section ends here  -->
