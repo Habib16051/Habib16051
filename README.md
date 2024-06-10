@@ -139,8 +139,8 @@
 #### Top Repositories
 
 
-<a href="https://github.com/Habib16051/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/Habib16051/Student-Study-Portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=Student-Study-Portal&theme=buefy" />
 </a>
 <a href="https://github.com/Habib16051/HuoAgroFarm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Habib16051&repo=HuoAgroFarm&theme=buefy" />
