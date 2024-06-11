@@ -112,7 +112,7 @@
 
 ### 💼 &nbsp; Employment History
 
-<p align='center'>
+
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 |Jr. Software Engineer| TechnoNext Software Limited                 | Nov 2023 - Present  | Dhaka, Bangladesh  |
@@ -120,7 +120,6 @@
 | Freelancer          | Fiverr                                      | Jan 2020 - Oct 2022 | Remote / Online    |
 
 
-</p>
 <br />
 <!-- work experience section ends here  -->
 
