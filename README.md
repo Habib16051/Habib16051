@@ -115,7 +115,7 @@
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-|Jr. Software Engineer| TechnoNext Software Limited                 | Nov 2023 - Present  | Dhaka, Bangladesh  |
+| Software Engineer   | TechnoNext Software Limited                 | Nov 2023 - Present  | Dhaka, Bangladesh  |
 | Python Developer    | LegoIO                                      | May 2023 - Oct 2023 | Washington DC, USA |
 | Freelancer          | Fiverr                                      | Jan 2020 - Oct 2022 | Remote / Online    |
 
