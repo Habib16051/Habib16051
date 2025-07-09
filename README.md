@@ -41,7 +41,7 @@
 <h3> 🧩 Back-end Frameworks</h3>
 <p>
   <img src="https://img.shields.io/badge/dj-Django-blue"/>
-  <img src="https://img.shields.io/badge/fastapi-fastapi"/>
+  <img src="https://img.shields.io/badge/fa-fastapi-green"/>
   <img src="https://img.shields.io/badge/api-Django%20Rest%20Framework-blueviolet"/>
   <img src="https://img.shields.io/badge/psql-PostgreSQL-cyan"/>
   <img src="https://img.shields.io/badge/api-Rest%20API-yellowgreen"/>
