@@ -12,6 +12,9 @@
   <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
     <img src="https://img.icons8.com/color/65/null/django.png"/>
   </a>
+    <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
+    <img src="https://img.icons8.com/color/65/null/django.png"/>
+  </a>
 <img width="60" height="60" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
   
   <a href= "https://restfulapi.net" target="_blank">
