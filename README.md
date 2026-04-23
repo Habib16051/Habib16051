@@ -9,11 +9,11 @@
 <h3 align="center"> <img src="/static/python.gif" width="20px" height="20px">Software Engineer</h3>
 <!-- ======================================= summary stacks  ======================================= -->
 <p align="center">
+      <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0"/>
+  </a>
   <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
     <img src="https://img.icons8.com/color/65/null/django.png"/>
-  </a>
-    <a href= "https://www.djangoproject.com" target="_blank" {:target="_blank" rel="noopener"}>
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0"/>
   </a>
 <img width="60" height="60" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
   
